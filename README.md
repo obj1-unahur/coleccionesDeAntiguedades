@@ -1,5 +1,5 @@
 # Coleccionista de Antiguedades
-## Ejemplo de Colecciones y poliorfismo
+## Ejemplo de Colecciones y polimorfismo
 Una casa de antiguedades se dedica a coleccionar todo tipo de artefactos y elementos antiguos. Ademas de conservarlos acomodados se ocupa de refaccionarlos, como así también hacer refacciones para terceros
 
 Las tareas básicas de la casa de antiguedades son:
@@ -18,6 +18,6 @@ Las tareas básicas de la casa de antiguedades son:
 	- la última que adquirió
 	- la que está guardada en cierta posición de su depósito
 	- una antiguedad dada, pero sólo si se encuentra en mal estado
-- Veder todas las antiguedades que tiene
+- Vender todas las antiguedades que tiene
 
 Considerar que antiguedades a coleccionar son de los más diversas, pero de todas se puede saber si están en mal estado, calcular los años que tiene y se las debe poder restaurar.
